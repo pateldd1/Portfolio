@@ -1,0 +1,18 @@
+.dev-blurb {
+  width: 50%;
+  margin-right: 19px;
+}
+
+/*.dev-image {
+  border-radius: 30%;
+}*/
+
+.inform {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.tsmartlive {
+  margin-left: 16px;
+}
