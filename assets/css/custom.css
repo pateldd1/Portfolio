@@ -16,3 +16,10 @@
 .tsmartlive {
   margin-left: 16px;
 }
+
+.ripple_image {
+  padding: 37px !important;
+  width: 445px !important;
+  margin-left: 135px !important;
+  height: 800px !important;
+}
